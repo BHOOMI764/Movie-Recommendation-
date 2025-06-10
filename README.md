@@ -12,7 +12,6 @@ A smart movie recommendation system that uses collaborative filtering techniques
 ### 🎯 **Core Features**
 - **User-Based Collaborative Filtering**
 - **KNN-Based Recommendations** 
-- **SVD Matrix Factorization**
 - **Interactive Movie Search**
 - **Personalized Recommendations**
 
@@ -53,7 +52,6 @@ Irrelevant movies: 5
 |-------|----------|-------------|
 | **Model 1** | User-Based | Find similar users |
 | **Model 2** | KNN-Based | K-Nearest Neighbors |
-| **Model 3** | SVD-Based | Matrix Factorization |
 
 ---
 
